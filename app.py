@@ -129,7 +129,7 @@ m = folium.Map(location=[pickup_lat, pickup_lon], zoom_start=12)
 
 # --- Logo personnalisé pour le pickup ---
 pickup_icon = folium.features.CustomIcon(
-    "https://i0.wp.com/lesbonsreflexespourdebonsyeux.com/wp-content/uploads/2020/07/Charlie.png?fit=194%2C289&ssl=1",   # ton logo
+    "https://banner2.cleanpng.com/20180329/kdq/avijtsv9b.webp",   # ton logo
     icon_size=(50, 50)
 )
 
